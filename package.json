@@ -1,19 +1,51 @@
 {
-  "name": "lucarocchiettitest",
-  "version": "1.1.0",
-  "description": "prima test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "chartjs-chart-box-and-violin-plot-lr",
+  "_id": "chartjs-chart-box-and-violin-plot-lr@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-zL/khvo9TI492FJTu4wURxv7DuncXmrYfbacGxLX4/sJbMCGSlKRBqiGCi5DVuxXuDpRoiTG/6s8f3qA7SGUCA==",
+  "_location": "/chartjs-chart-box-and-violin-plot-lr",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "chartjs-chart-box-and-violin-plot-lr",
+    "name": "chartjs-chart-box-and-violin-plot-lr",
+    "escapedName": "chartjs-chart-box-and-violin-plot-lr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "author": {
+    "name": "Samuel Gratzl",
+    "email": "samuel.gratzl@datavisyn.io",
+    "url": "http://datavisyn.io"
+  },
+  "bugs": {
+    "url": "https://github.com/lucarocchietti/hello-world/issues"
+  },
+  "deprecated": false,
+  "description": "Chart.js module for charting boxplots",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "3",
+    "package-preamble": "0.0",
+    "rimraf": "^2.6.2",
+    "rollup": "0.41",
+    "rollup-plugin-babel": "^3.0.3",
+    "rollup-plugin-commonjs": "^8.2.6",
+    "rollup-plugin-node-resolve": "^3.0.0",
+    "rollup-watch": "^4.3.1",
+    "uglify-es": "^3.2.0"
+  },
+  "homepage": "https://github.com/lucarocchietti/hello-world#readme",
+  "license": "MIT",
+  "main": "build/Chart.BoxPlot.js",
+  "name": "chartjs-chart-box-and-violin-plot-lr",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lucarocchietti/hello-world.git"
   },
-  "author": "Luca Rocchietti <luca.rocchietti@gmail.com>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/lucarocchietti/hello-world/issues"
-  },
-  "homepage": "https://github.com/lucarocchietti/hello-world#readme"
+  "version": "1.1.0"
 }
