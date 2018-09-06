@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "prima test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucarocchietti/hello-world.git"
+  },
+  "author": "Luca Rocchietti <luca.rocchietti@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucarocchietti/hello-world/issues"
+  },
+  "homepage": "https://github.com/lucarocchietti/hello-world#readme"
+}
